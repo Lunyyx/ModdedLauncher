@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModdedLauncher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModdedLauncher_jar</output-path>
+    <root id="archive" name="ModdedLauncher.jar">
+      <element id="module-output" name="ModdedLauncher" />
+      <element id="extracted-dir" path="F:/Téléchargements/json-20201115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/Téléchargements/s-update-3.1.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/Téléchargements/openlauncherlib-3.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
