@@ -12,5 +12,5 @@ L'apparence de ce dernier est très simple: j'ai choisi la simplicité à ce niv
 - Sélecteur de RAM
 - Et d'autres...
 
-🐞**Bug(s) connu(s):**
+🐞 **Bug(s) connu(s):**
 - Le jeu ne se connecte pas au compte Mojang si le compte est enregistré sur le launcher (En cours d'investigation...) 
