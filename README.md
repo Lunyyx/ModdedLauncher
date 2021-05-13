@@ -4,7 +4,7 @@
 Voici un launcher simple développé en Java qui utilise les librairies OpenLauncherLib et S-Update.
 L'apparence de ce dernier est très simple: j'ai choisi la simplicité à ce niveau-là.
 
-**__Fonctionnalités:__**
+⚙ **Fonctionnalités:**
 - Mise à jour automatique du jeu + des mods via un serveur distant
 - Possibilité d'enregistrer son compte (mais pas encore de le supprimer via un bouton)
 - Status du launcher (Connexion, téléchargement...) simplifiés
