@@ -14,3 +14,5 @@ L'apparence de ce dernier est très simple: j'ai choisi la simplicité à ce niv
 
 🐞 **Bug(s) connu(s):**
 - Le jeu ne se connecte pas au compte Mojang si le compte est enregistré sur le launcher (En cours d'investigation...) 
+
+*Vous pouvez utiliser ce projet en tant que base ou en tant que tel pour un launcher à usage privé (entre amis, famille...) ou pour de petits projets non lucratifs*
