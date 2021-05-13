@@ -1,2 +1,0 @@
-the text
-more text
