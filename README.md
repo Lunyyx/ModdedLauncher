@@ -1,4 +1,4 @@
-# ModdedLauncher (Pause)
+# ModdedLauncher (Arrêté)
 ⚠ **Ce projet est actuellement en pause étant donné que OpenLauncherLib ne supporte pas encore les comptes Microsoft.
 Cependant un nouveau projet est en cours, mais avance lentement.**
 
@@ -11,9 +11,8 @@ L'apparence de ce dernier est très simple: j'ai choisi la simplicité à ce niv
 - Mise à jour automatique du jeu + des mods via un serveur distant
 - Possibilité d'enregistrer son compte (mais pas encore de le supprimer via un bouton)
 - Status du launcher (Connexion, téléchargement...) simplifiés
-- Status des serveurs de Mojang
+- Status des serveurs de Mojang (**NE FONCTIONNE PLUS**)
 - Sélecteur de RAM
-- Et d'autres...
 
 🐞 **Bug(s) connu(s):**
 - Le jeu ne se connecte pas au compte Mojang si le compte est enregistré sur le launcher
